@@ -1,0 +1,2 @@
+# solution
+Gartner coding challange
